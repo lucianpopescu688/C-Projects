@@ -1,0 +1,3 @@
+﻿  test.cpp
+D:\OOP2022\laboratory3-lucianpopescu688\Laboratory3\test.cpp(51,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Laboratory3.vcxproj -> D:\OOP2022\laboratory3-lucianpopescu688\x64\Debug\Laboratory3.exe
