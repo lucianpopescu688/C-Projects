@@ -1,0 +1,14 @@
+﻿  Laboratory9-Problem2.cpp
+D:\OOP2022\Laboratory9\Laboratory9-Problem2\Laboratory9-Problem2.cpp(32,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\OOP2022\Laboratory9\Laboratory9-Problem2\Laboratory9-Problem2.cpp(38,21): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\OOP2022\Laboratory9\Laboratory9-Problem2\Laboratory9-Problem2.cpp(61,12): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\OOP2022\Laboratory9\Laboratory9-Problem2\Laboratory9-Problem2.cpp(83,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\algorithm(511,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\OOP2022\Laboratory9\Laboratory9-Problem2\Laboratory9-Problem2.cpp(38): message : see reference to function template instantiation '__int64 std::count_if<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,bool(__cdecl *)(int)>(_InIt,_InIt,_Pr)' being compiled
+          with
+          [
+              _Ty=double,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>,
+              _Pr=bool (__cdecl *)(int)
+          ]
+  Laboratory9-Problem2.vcxproj -> D:\OOP2022\Laboratory9\x64\Debug\Laboratory9-Problem2.exe
