@@ -1,0 +1,4 @@
+﻿  main.c
+D:\OOP2022\laboratory2-lucianpopescu688\Problem2\main.c(10,35): warning C4018: '<': signed/unsigned mismatch
+D:\OOP2022\laboratory2-lucianpopescu688\Problem2\main.c(60,16): warning C4133: 'function': incompatible types - from 'char [4]' to 'FILE *const '
+  Problem2.vcxproj -> D:\OOP2022\laboratory2-lucianpopescu688\x64\Debug\Problem2.exe
