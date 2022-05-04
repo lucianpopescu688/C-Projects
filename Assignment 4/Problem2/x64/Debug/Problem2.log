@@ -1,0 +1,6 @@
+﻿  BigInteger.cpp
+D:\OOP2022\laboratory4-lucianpopescu688\Problem2\BigInteger.cpp(33,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\OOP2022\laboratory4-lucianpopescu688\Problem2\BigInteger.cpp(133,31): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+D:\OOP2022\laboratory4-lucianpopescu688\Problem2\BigInteger.cpp(249,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\OOP2022\laboratory4-lucianpopescu688\Problem2\BigInteger.cpp(262,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Problem2.vcxproj -> D:\OOP2022\laboratory4-lucianpopescu688\x64\Debug\Problem2.exe

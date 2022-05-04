@@ -1,0 +1,4 @@
+﻿  complex_number.cpp
+D:\OOP2022\laboratory4-lucianpopescu688\Problem1\complex_number.cpp(100,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\OOP2022\laboratory4-lucianpopescu688\Problem1\complex_number.cpp(118,17): warning C4305: '/=': truncation from 'double' to 'float'
+  Problem1.vcxproj -> D:\OOP2022\laboratory4-lucianpopescu688\x64\Debug\Problem1.exe
