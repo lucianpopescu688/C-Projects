@@ -1,5 +1,0 @@
-﻿  main.c
-D:\OOP2022\laboratory1-lucianpopescu688\Problem4\main.c(14,28): warning C4474: 'scanf' : too many arguments passed for format string
-D:\OOP2022\laboratory1-lucianpopescu688\Problem4\main.c(14,28): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
-D:\OOP2022\laboratory1-lucianpopescu688\Problem4\main.c(11,21): warning C4101: 'character': unreferenced local variable
-  Problem4.vcxproj -> D:\OOP2022\laboratory1-lucianpopescu688\x64\Debug\Problem4.exe
