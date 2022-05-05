@@ -102,7 +102,7 @@ Assignment 6 - has two parts and is divided as follows:
         c.	When you want to remove the element from a position in the array, but the position is out of the bounds of the array;
         
 
-   - The second part is the Problem 2 in which the following problems are solved and accessed with a menu-based application:
+   - The second part is the Problem 2 in which the following problems are solved(using lambdas and functions from library "algorithm") and accessed with a menu-based application:
     
         a.	Given a vector of doubles, check if all the numbers are positive;
        
