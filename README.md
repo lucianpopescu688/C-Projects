@@ -59,7 +59,7 @@ Assignment 4
 
   - overload for the stream insertion operator (>>) and stream extraction (<<) operators;
 
-  - overloads for the arithmetic operators: addition (+), subtraction (-) and multiplication(*
+  - overloads for the arithmetic operators: addition (+), subtraction (-) and multiplication(*);
   
   Problem 2: BigInteger class and Fibonacci function;
 
